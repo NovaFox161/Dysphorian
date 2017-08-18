@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 7f45619df34aa854181af8facded12b7
+timeCreated: 1481857378
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Doorknob_Round2
+    100002: Doorknob_Round2 1
+    100004: Doorknob_Round2 2
+    100006: Doorknob_Round2 3
+    100008: Doorknob_Round2 4
+    100010: Doorknob_Round2 5
+    100012: group_0
+    100014: group_1
+    100016: group_10
+    100018: group_11
+    100020: group_12
+    100022: group_13
+    100024: group_14
+    100026: group_15
+    100028: group_16
+    100030: group_17
+    100032: group_18
+    100034: group_2
+    100036: group_3
+    100038: group_4
+    100040: group_4 1
+    100042: group_5
+    100044: group_6
+    100046: Group_7
+    100048: group_7
+    100050: group_8
+    100052: group_9
+    100054: ID111
+    100056: ID125
+    100058: ID125 1
+    100060: ID125 2
+    100062: ID131
+    100064: ID131 1
+    100066: ID131 2
+    100068: ID145
+    100070: ID145 1
+    100072: ID145 2
+    100074: ID15
+    100076: ID151
+    100078: ID151 1
+    100080: ID151 2
+    100082: ID169
+    100084: ID175
+    100086: ID186
+    100088: ID192
+    100090: ID198
+    100092: ID204
+    100094: ID217
+    100096: ID223
+    100098: ID229
+    100100: ID235
+    100102: ID250
+    100104: ID265
+    100106: ID273
+    100108: ID281
+    100110: ID296
+    100112: ID302
+    100114: ID308
+    100116: ID314
+    100118: ID327
+    100120: ID333
+    100122: ID339
+    100124: ID345
+    100126: ID358
+    100128: ID364
+    100130: ID370
+    100132: ID376
+    100134: ID393
+    100136: ID407
+    100138: ID413
+    100140: ID42
+    100142: ID426
+    100144: ID441
+    100146: ID447
+    100148: ID453
+    100150: ID468
+    100152: ID474
+    100154: ID480
+    100156: ID486
+    100158: ID50
+    100160: ID502
+    100162: ID516
+    100164: ID522
+    100166: ID533
+    100168: ID539
+    100170: ID545
+    100172: ID551
+    100174: ID564
+    100176: ID570
+    100178: ID576
+    100180: ID58
+    100182: ID582
+    100184: ID77
+    100186: ID83
+    100188: ID89
+    100190: ID95
+    100192: instance_0
+    100194: instance_1
+    100196: instance_1 1
+    100198: instance_2
+    100200: instance_2 1
+    100202: instance_3
+    100204: instance_4
+    100206: instance_5
+    100208: instance_6
+    100210: instance_7
+    100212: Last Saved SketchUp View
+    100214: //RootNode
+    100216: Wood_Door_760mm
+    100218: Wood_Door_760mm_3
+    100220: Wood_Door_760mm_4
+    400000: Doorknob_Round2
+    400002: Doorknob_Round2 1
+    400004: Doorknob_Round2 2
+    400006: Doorknob_Round2 3
+    400008: Doorknob_Round2 4
+    400010: Doorknob_Round2 5
+    400012: group_0
+    400014: group_1
+    400016: group_10
+    400018: group_11
+    400020: group_12
+    400022: group_13
+    400024: group_14
+    400026: group_15
+    400028: group_16
+    400030: group_17
+    400032: group_18
+    400034: group_2
+    400036: group_3
+    400038: group_4
+    400040: group_4 1
+    400042: group_5
+    400044: group_6
+    400046: Group_7
+    400048: group_7
+    400050: group_8
+    400052: group_9
+    400054: ID111
+    400056: ID125
+    400058: ID125 1
+    400060: ID125 2
+    400062: ID131
+    400064: ID131 1
+    400066: ID131 2
+    400068: ID145
+    400070: ID145 1
+    400072: ID145 2
+    400074: ID15
+    400076: ID151
+    400078: ID151 1
+    400080: ID151 2
+    400082: ID169
+    400084: ID175
+    400086: ID186
+    400088: ID192
+    400090: ID198
+    400092: ID204
+    400094: ID217
+    400096: ID223
+    400098: ID229
+    400100: ID235
+    400102: ID250
+    400104: ID265
+    400106: ID273
+    400108: ID281
+    400110: ID296
+    400112: ID302
+    400114: ID308
+    400116: ID314
+    400118: ID327
+    400120: ID333
+    400122: ID339
+    400124: ID345
+    400126: ID358
+    400128: ID364
+    400130: ID370
+    400132: ID376
+    400134: ID393
+    400136: ID407
+    400138: ID413
+    400140: ID42
+    400142: ID426
+    400144: ID441
+    400146: ID447
+    400148: ID453
+    400150: ID468
+    400152: ID474
+    400154: ID480
+    400156: ID486
+    400158: ID50
+    400160: ID502
+    400162: ID516
+    400164: ID522
+    400166: ID533
+    400168: ID539
+    400170: ID545
+    400172: ID551
+    400174: ID564
+    400176: ID570
+    400178: ID576
+    400180: ID58
+    400182: ID582
+    400184: ID77
+    400186: ID83
+    400188: ID89
+    400190: ID95
+    400192: instance_0
+    400194: instance_1
+    400196: instance_1 1
+    400198: instance_2
+    400200: instance_2 1
+    400202: instance_3
+    400204: instance_4
+    400206: instance_5
+    400208: instance_6
+    400210: instance_7
+    400212: Last Saved SketchUp View
+    400214: //RootNode
+    400216: Wood_Door_760mm
+    400218: Wood_Door_760mm_3
+    400220: Wood_Door_760mm_4
+    2300000: Doorknob_Round2
+    2300002: Doorknob_Round2 1
+    2300004: Doorknob_Round2 2
+    2300006: Doorknob_Round2 3
+    2300008: Doorknob_Round2 4
+    2300010: Doorknob_Round2 5
+    2300012: group_0
+    2300014: group_1
+    2300016: group_10
+    2300018: group_11
+    2300020: group_12
+    2300022: group_13
+    2300024: group_14
+    2300026: group_15
+    2300028: group_16
+    2300030: group_17
+    2300032: group_18
+    2300034: group_2
+    2300036: group_3
+    2300038: group_4
+    2300040: group_4 1
+    2300042: group_5
+    2300044: group_6
+    2300046: Group_7
+    2300048: group_7
+    2300050: group_8
+    2300052: group_9
+    2300054: ID111
+    2300056: ID125
+    2300058: ID125 1
+    2300060: ID125 2
+    2300062: ID131
+    2300064: ID131 1
+    2300066: ID131 2
+    2300068: ID145
+    2300070: ID145 1
+    2300072: ID145 2
+    2300074: ID15
+    2300076: ID151
+    2300078: ID151 1
+    2300080: ID151 2
+    2300082: ID169
+    2300084: ID186
+    2300086: ID192
+    2300088: ID198
+    2300090: ID204
+    2300092: ID217
+    2300094: ID223
+    2300096: ID229
+    2300098: ID235
+    2300100: ID250
+    2300102: ID265
+    2300104: ID273
+    2300106: ID281
+    2300108: ID296
+    2300110: ID302
+    2300112: ID308
+    2300114: ID314
+    2300116: ID327
+    2300118: ID333
+    2300120: ID339
+    2300122: ID345
+    2300124: ID358
+    2300126: ID364
+    2300128: ID370
+    2300130: ID376
+    2300132: ID393
+    2300134: ID407
+    2300136: ID42
+    2300138: ID426
+    2300140: ID441
+    2300142: ID447
+    2300144: ID453
+    2300146: ID468
+    2300148: ID474
+    2300150: ID480
+    2300152: ID486
+    2300154: ID50
+    2300156: ID502
+    2300158: ID516
+    2300160: ID533
+    2300162: ID539
+    2300164: ID545
+    2300166: ID551
+    2300168: ID564
+    2300170: ID570
+    2300172: ID576
+    2300174: ID58
+    2300176: ID582
+    2300178: ID77
+    2300180: ID83
+    2300182: ID89
+    2300184: ID95
+    3300000: Doorknob_Round2
+    3300002: Doorknob_Round2 1
+    3300004: Doorknob_Round2 2
+    3300006: Doorknob_Round2 3
+    3300008: Doorknob_Round2 4
+    3300010: Doorknob_Round2 5
+    3300012: group_0
+    3300014: group_1
+    3300016: group_10
+    3300018: group_11
+    3300020: group_12
+    3300022: group_13
+    3300024: group_14
+    3300026: group_15
+    3300028: group_16
+    3300030: group_17
+    3300032: group_18
+    3300034: group_2
+    3300036: group_3
+    3300038: group_4
+    3300040: group_4 1
+    3300042: group_5
+    3300044: group_6
+    3300046: Group_7
+    3300048: group_7
+    3300050: group_8
+    3300052: group_9
+    3300054: ID111
+    3300056: ID125
+    3300058: ID125 1
+    3300060: ID125 2
+    3300062: ID131
+    3300064: ID131 1
+    3300066: ID131 2
+    3300068: ID145
+    3300070: ID145 1
+    3300072: ID145 2
+    3300074: ID15
+    3300076: ID151
+    3300078: ID151 1
+    3300080: ID151 2
+    3300082: ID169
+    3300084: ID186
+    3300086: ID192
+    3300088: ID198
+    3300090: ID204
+    3300092: ID217
+    3300094: ID223
+    3300096: ID229
+    3300098: ID235
+    3300100: ID250
+    3300102: ID265
+    3300104: ID273
+    3300106: ID281
+    3300108: ID296
+    3300110: ID302
+    3300112: ID308
+    3300114: ID314
+    3300116: ID327
+    3300118: ID333
+    3300120: ID339
+    3300122: ID345
+    3300124: ID358
+    3300126: ID364
+    3300128: ID370
+    3300130: ID376
+    3300132: ID393
+    3300134: ID407
+    3300136: ID42
+    3300138: ID426
+    3300140: ID441
+    3300142: ID447
+    3300144: ID453
+    3300146: ID468
+    3300148: ID474
+    3300150: ID480
+    3300152: ID486
+    3300154: ID50
+    3300156: ID502
+    3300158: ID516
+    3300160: ID533
+    3300162: ID539
+    3300164: ID545
+    3300166: ID551
+    3300168: ID564
+    3300170: ID570
+    3300172: ID576
+    3300174: ID58
+    3300176: ID582
+    3300178: ID77
+    3300180: ID83
+    3300182: ID89
+    3300184: ID95
+    4300000: group_0
+    4300002: ID15
+    4300004: group_1
+    4300006: ID42
+    4300008: ID50
+    4300010: ID58
+    4300012: group_2
+    4300014: ID77
+    4300016: ID83
+    4300018: ID89
+    4300020: ID95
+    4300022: group_3
+    4300024: ID169
+    4300026: group_4
+    4300028: ID111
+    4300030: Doorknob_Round2
+    4300032: ID125
+    4300034: ID131
+    4300036: Doorknob_Round2
+    4300038: ID145
+    4300040: ID151
+    4300042: group_5
+    4300044: ID186
+    4300046: ID192
+    4300048: ID198
+    4300050: ID204
+    4300052: group_6
+    4300054: ID217
+    4300056: ID223
+    4300058: ID229
+    4300060: ID235
+    4300062: group_7
+    4300064: ID250
+    4300066: group_8
+    4300068: ID265
+    4300070: ID273
+    4300072: ID281
+    4300074: group_9
+    4300076: ID296
+    4300078: ID302
+    4300080: ID308
+    4300082: ID314
+    4300084: group_10
+    4300086: ID327
+    4300088: ID333
+    4300090: ID339
+    4300092: ID345
+    4300094: group_11
+    4300096: ID358
+    4300098: ID364
+    4300100: ID370
+    4300102: ID376
+    4300104: Group_7
+    4300106: ID407
+    4300108: group_12
+    4300110: ID393
+    4300112: group_13
+    4300114: ID426
+    4300116: group_14
+    4300118: ID441
+    4300120: ID447
+    4300122: ID453
+    4300124: group_15
+    4300126: ID468
+    4300128: ID474
+    4300130: ID480
+    4300132: ID486
+    4300134: group_16
+    4300136: ID516
+    4300138: group_4
+    4300140: ID502
+    4300142: group_17
+    4300144: ID533
+    4300146: ID539
+    4300148: ID545
+    4300150: ID551
+    4300152: group_18
+    4300154: ID564
+    4300156: ID570
+    4300158: ID576
+    4300160: ID582
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

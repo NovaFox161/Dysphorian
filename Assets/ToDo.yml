@@ -1,0 +1,59 @@
+To Add:
+    Mechanics:
+        Base code for choice mechanics
+    UI:
+        Closet:
+            Open/Close animation
+        Stats info:
+            Smooth animations
+    Models:
+        House:
+            Downstairs:
+                Model
+                All colliders
+        Outside:
+            Skybox
+            landscape
+            surrounding buildings (viewed from windows)
+        Town:
+            Roads:
+                Streets -SEMI DONE-
+                Props
+            Terrain:
+                Giant lake -DONE-
+                Grass -DONE-
+                Hills -DONE-
+                River -STARTED-
+                Trees
+            Buildings:
+                School
+                Stores
+                Houses
+                Apartments
+                Pier/Docks
+                Etc etc
+    Animations:
+    Music:
+    Sound:
+        Closet:
+            Open
+            Close
+            outfit pick
+    Dialog:
+        Narration:
+            Scene 1:
+                Tv static
+                Closet:
+                    Outfit based comment.
+            Scene 2:
+    
+To Improve:
+    Text selection in all menus (odd hover range) -DONE-
+    New font for all UI Text -DONE-
+    Scene 2 TV audio (doppler effect, respect walls and such)
+
+
+Bugs:
+    Closet not displaying mouse and player active after unpause when closet is open on pause.
+    
+To Test:
